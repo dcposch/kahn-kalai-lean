@@ -1,4 +1,11 @@
 /.cache/
 /.lake/
 /docbuild/.lake/
+/.receipts/
+/receipts/
 
+NumericScratch.lean
+ParkPhamScratch.lean
+HANDOFF.md
+.receipts/
+receipts/
